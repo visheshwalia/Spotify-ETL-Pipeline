@@ -20,5 +20,3 @@ In Apache Airflow, two tasks have been defined. The first task refreshes the acc
 We welcome any feedback on how to improve this pipeline and make it more efficient.
 
 Thank you!
-
-![image](https://github.com/visheshwalia/Docker-ETL-Pipeline/assets/49346509/1d09d6a0-25b5-47c4-b328-975355350518)
